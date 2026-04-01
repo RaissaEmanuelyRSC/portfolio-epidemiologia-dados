@@ -1,0 +1,12 @@
+Análise Epidemiológica de Dados do SIASI
+
+Descrição
+Este projeto apresenta um fluxo estruturado de análise epidemiológica aplicado a dados provenientes do Sistema de Informação da Atenção à Saúde Indígena (SIASI), com foco na geração de informações estratégicas para apoio à tomada de decisão.
+
+Objetivo
+Demonstrar, de forma prática e reproduzível, as etapas de tratamento, análise e interpretação de dados epidemiológicos, simulando a construção de produtos como boletins epidemiológicos utilizados por centros de inteligência em saúde.
+
+Importante
+Este repositório não contém dados reais do SIASI, nem realiza extração direta do sistema, em conformidade com princípios éticos e com a Lei Geral de Proteção de Dados (LGPD).
+Os dados utilizados são simulados ou anonimizados, com finalidade exclusivamente educacional e demonstrativa.
+
