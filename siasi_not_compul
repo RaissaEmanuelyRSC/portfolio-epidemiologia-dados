@@ -32,4 +32,15 @@ Analistas de dados em saúde
 Estudantes de epidemiologia
 Desenvolvimento de boletins epidemiológicos
 
+pacotes <- c(
+  "tidyverse", "foreign", "DescTools", "summarytools", "gtsummary", "dygraphs",
+  "readr", "readxl", "janitor", "skimr", "stringr", "stringi", "lubridate",
+  "writexl", "epitools", "glue"
+)
 
+for (p in pacotes) {
+  if (!require(p, character.only = TRUE)) {
+    install.packages(p)
+  }
+  library(p, character.only = TRUE)
+}
